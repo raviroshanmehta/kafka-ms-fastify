@@ -1,7 +1,7 @@
 # kafka-ms-fastify
 Fastify Microservice Setup with Apache Kafka 
 
-This git is part for an blog [NodeJS Microservice with Fastify and Kafka](https://medium.com/@raviroshanmehta/nodejs-microservice-with-fastify-and-kafka-14e104c49184)
+This git is part for a blog [NodeJS Microservice with Fastify and Kafka](https://medium.com/@raviroshanmehta/nodejs-microservice-with-fastify-and-kafka-14e104c49184)
 
 ## How to run
 
